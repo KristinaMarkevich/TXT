@@ -69,11 +69,11 @@ $ git commit -m "comment"
 ```
 $ git push
 ```
- **14. На веб интерфейсе создать файл bug_report.txt**
+ **14. На веб интерфейсе создать файл [bug_report.txt](https://github.com/KristinaMarkevich/TXT/blob/main/bug_report.txt)**
  
  **15. Сделать Commit changes (сохранить) изменения на веб интерфейсе**
  
- **16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT**
+ **16. На веб интерфейсе модифицировать файл [bug_report.txt](https://github.com/KristinaMarkevich/TXT/blob/main/bug_report.txt), добавить баг репорт в формате TXT**
  
  **17. Сделать Commit changes (сохранить) изменения на веб интерфейсе**
  
