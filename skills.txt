@@ -1,0 +1,4 @@
+skill #1 - termimal,
+skill #2 - SQL,
+skill #3 - postman,
+skill #4 -creating bug reports 
