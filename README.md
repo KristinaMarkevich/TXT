@@ -62,8 +62,7 @@ skill #4 -creating bug reports
 ```
 **12. Сделать коммит в одну строку**
 ```
-$ git add . 
-$ git commit -m "comment"
+$ git add . && git commit -m "comment"
 ```
 **13. Отправить сразу 2 файла на внешний репозиторий**
 ```
